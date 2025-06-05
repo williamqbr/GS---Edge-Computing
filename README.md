@@ -8,4 +8,5 @@ Breve apresentação do projeto: https://www.canva.com/design/DAGoxEnnEr0/99yZCX
 
 Video explicativo: https://drive.google.com/file/d/19CuZvM4rT09ySxypCcLSS_Ko5vPC8jtv/view?usp=sharing
 
-integrantes: William Queiroz e Daniel Duarte.
+integrantes: William Queiroz RM: 565032
+e Daniel Duarte RM: 562508
